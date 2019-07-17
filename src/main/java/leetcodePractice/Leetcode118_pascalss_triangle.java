@@ -2,7 +2,7 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Leetcode3_pascalss_triangle {
+public class Leetcode118_pascalss_triangle {
     public static List<List<Integer>> generate(int numRows) {
         ArrayList<List<Integer>> list = new ArrayList<>();
 

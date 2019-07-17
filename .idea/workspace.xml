@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ad8035-01f6-46bd-a84c-154a78bad1cf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode3_longest_substring_without_repeating_charaters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode1089.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode1089_duplicate_zeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode350_intersection_of_two_arrays_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode371.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode371_sum_of_two_integers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode387_first_unique_character_in_a_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode66PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode66_plus_one.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/No13_roman_to_integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode13_roman_to_integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/No1_two_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode1_two_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/No7_reverse_integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode7_reverse_integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode141_linked_list_cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode141_linked_list_cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode3_pascalss_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode118_pascalss_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode1089.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode20_valid_parentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode20_valid_parentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode242_valid_anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode242_valid_anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode350.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode371.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode387.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcodePractice/Leetcode66PlusOne.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode371_sum_of_two_integers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode387_first_unique_character_in_a_string.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,32 +61,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode171_excel_sheet_column_number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-              <folding>
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode172_factorial_trailing_zeros.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode7_reverse_integer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -119,24 +86,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode66_plus_one.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="650">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode350_intersection_of_two_arrays_2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode3_longest_substring_without_repeating_charaters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="300">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
-                <element signature="e#320#338#0" expanded="true" />
-                <element signature="e#389#398#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <folding>
+                <element signature="e#1275#1276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode141_linked_list_cycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <folding>
+                <element signature="e#225#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode118_pascalss_triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -177,6 +176,10 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/No7_reverse_integer.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/No13_roman_to_integer.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode66PlusOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode141_linked_list_cycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode3_pascalss_triangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode3_longest_substring_without_repeating_charaters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java" />
       </list>
     </option>
   </component>
@@ -192,7 +195,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2197" />
     <option name="y" value="32" />
     <option name="width" value="2576" />
@@ -267,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode172_factorial_trailing_zeros">
+  <component name="RunManager" selected="Application.Leetcode5_longest_palindromic_substring">
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -359,8 +362,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode20_valid_parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodePractice.Leetcode20_valid_parentheses" />
+    <configuration name="Leetcode3_longest_substring_without_repeating_charaters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodePractice.Leetcode3_longest_substring_without_repeating_charaters" />
       <module name="javapractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -373,22 +376,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode242_valid_anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodePractice.Leetcode242_valid_anagram" />
+    <configuration name="Leetcode3_pascalss_triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode3_pascalss_triangle" />
       <module name="javapractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodePractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_excel_sheet_column_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodePractice.Leetcode_excel_sheet_column_number" />
+    <configuration name="Leetcode5_longest_palindromic_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodePractice.Leetcode5_longest_palindromic_substring" />
       <module name="javapractice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -513,19 +510,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode20_valid_parentheses" />
-      <item itemvalue="Application.Leetcode242_valid_anagram" />
-      <item itemvalue="Application.Leetcode_excel_sheet_column_number" />
       <item itemvalue="Application.Leetcode171_excel_sheet_column_number" />
       <item itemvalue="Application.Leetcode172_factorial_trailing_zeros" />
+      <item itemvalue="Application.Leetcode3_longest_substring_without_repeating_charaters" />
+      <item itemvalue="Application.Leetcode3_pascalss_triangle" />
+      <item itemvalue="Application.Leetcode5_longest_palindromic_substring" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode5_longest_palindromic_substring" />
+        <item itemvalue="Application.Leetcode3_longest_substring_without_repeating_charaters" />
+        <item itemvalue="Application.Leetcode3_pascalss_triangle" />
         <item itemvalue="Application.Leetcode172_factorial_trailing_zeros" />
         <item itemvalue="Application.Leetcode171_excel_sheet_column_number" />
-        <item itemvalue="Application.Leetcode_excel_sheet_column_number" />
-        <item itemvalue="Application.Leetcode242_valid_anagram" />
-        <item itemvalue="Application.Leetcode20_valid_parentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -551,12 +548,12 @@
       <workItem from="1562249946526" duration="2551000" />
       <workItem from="1563071135568" duration="2545000" />
       <workItem from="1563286065658" duration="6054000" />
-      <workItem from="1563329796633" duration="581000" />
+      <workItem from="1563329796633" duration="4658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30534000" />
+    <option name="totallyTimeSpent" value="34611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,7 +568,7 @@
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -583,15 +580,15 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40171608" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3978159" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23388773" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34927234" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15288612" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.084199585" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32761312" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744282" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -616,6 +613,42 @@
           <line>70</line>
           <properties />
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -737,7 +770,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode350_intersection_of_two_arrays_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding>
             <element signature="e#320#338#0" expanded="true" />
             <element signature="e#389#398#0" expanded="true" />
@@ -801,8 +834,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode66_plus_one.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="650">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode141_linked_list_cycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#225#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode118_pascalss_triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode3_longest_substring_without_repeating_charaters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#756#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcodePractice/Leetcode5_longest_palindromic_substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="e#1275#1276#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
