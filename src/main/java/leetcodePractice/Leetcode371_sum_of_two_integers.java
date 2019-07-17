@@ -5,7 +5,7 @@ import java.awt.*;
 /**
  * Created by 祁连山 on 2019/7/4.
  */
-public class Leetcode371 {
+public class Leetcode371_sum_of_two_integers {
     public static int getSum(int a, int b) {
         String as = Integer.toBinaryString(a);
         String bs = Integer.toBinaryString(b);

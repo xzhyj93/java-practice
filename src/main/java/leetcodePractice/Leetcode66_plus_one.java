@@ -7,7 +7,7 @@ import java.util.Arrays;
 /**
  * Created by 祁连山 on 2019/6/30.
  */
-public class Leetcode66PlusOne {
+public class Leetcode66_plus_one {
     public static int[] plusOne(int[] digits) {
         int len = digits.length;
 

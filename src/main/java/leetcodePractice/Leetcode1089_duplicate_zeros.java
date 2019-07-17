@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by 祁连山 on 2019/7/1.
  */
-public class Leetcode1089 {
+public class Leetcode1089_duplicate_zeros {
     public static void duplicateZeros(int[] arr) {
         duplicateZeros(arr, 0);
     }

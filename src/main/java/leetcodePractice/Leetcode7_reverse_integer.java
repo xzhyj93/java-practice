@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Stack;
 
-public class No7_reverse_integer {
+public class Leetcode7_reverse_integer {
     public static int reverse2(int x) {
         Boolean isNegative = x < 0;
         if (isNegative) {

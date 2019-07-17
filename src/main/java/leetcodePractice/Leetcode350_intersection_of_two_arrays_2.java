@@ -7,7 +7,7 @@ import java.util.HashMap;
 /**
  * Created by 祁连山 on 2019/6/30.
  */
-public class Leetcode350 {
+public class Leetcode350_intersection_of_two_arrays_2     {
     public static int[] intersect(int[] nums1, int[] nums2) {
         HashMap<Integer, Integer>hMap = new HashMap<Integer, Integer>();
         ArrayList<Integer> list = new ArrayList<Integer>();

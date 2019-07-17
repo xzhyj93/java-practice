@@ -2,7 +2,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class No1_two_sum {
+public class Leetcode1_two_sum {
     public static int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         int i;

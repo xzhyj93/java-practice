@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class No13_roman_to_integer {
+public class Leetcode13_roman_to_integer {
     public static int romanToInt(String s) {
         HashMap<Character, Integer> romanMap = new HashMap<>();
 

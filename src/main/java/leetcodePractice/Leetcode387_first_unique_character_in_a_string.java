@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * Created by 祁连山 on 2019/7/1.
  */
-public class Leetcode387 {
+public class Leetcode387_first_unique_character_in_a_string     {
     public static int firstUniqChar(String s) {
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
 
