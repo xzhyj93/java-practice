@@ -2,8 +2,8 @@
  * https://leetcode.com/problems/minimum-path-sum/
  */
 /*
-  Runtime: 92 ms, faster than 7.32% of JavaScript online submissions for Minimum Path Sum.
-  Memory Usage: 35.9 MB, less than 66.67% of JavaScript online submissions for Minimum Path Sum.
+  Runtime: 64 ms, faster than 48.13% of JavaScript online submissions for Minimum Path Sum.
+  Memory Usage: 35.7 MB, less than 100.00% of JavaScript online submissions for Minimum Path Sum.
 */
 var minPathSum = function(grid) {
   let path = new Array(grid[0].length)

@@ -28,6 +28,11 @@ Your output answer is guaranteed to be fitted in a 32-bit integer.*/
  * @return {number}
  */
 
+ /*
+  Approach 3: 2D Dynamic Programming
+  Runtime: 140 ms, faster than 73.04% of JavaScript online submissions for Target Sum.
+  Memory Usage: 41.5 MB, less than 100.00% of JavaScript online submissions for Target Sum.
+ */
  var findTargetSumWays = function(nums, s) {
    const dp = new Array(nums.length)
    for (let i = 0; i < nums.length; i++) {
@@ -50,6 +55,8 @@ Your output answer is guaranteed to be fitted in a 32-bit integer.*/
  }
 
  /*
+  Approach 2: Recursion with Memoization
+
   Runtime: 312 ms, faster than 46.52% of JavaScript online submissions for Target Sum.
   Memory Usage: 43.2 MB, less than 100.00% of JavaScript online submissions for Target Sum.
  */
@@ -86,6 +93,8 @@ var findTargetSumWays3 = function(nums, S) {
 }
 
 /*
+  Approach 1: Brute Force
+
   Runtime: 1536 ms, faster than 29.56% of JavaScript online submissions for Target Sum.
   Memory Usage: 34.4 MB, less than 100.00% of JavaScript online submissions for Target Sum.
 */
