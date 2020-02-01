@@ -8,6 +8,7 @@
  * @return {number[]}
  */
 /*
+    sliding window
     Runtime: 92 ms, faster than 82.30% of JavaScript online submissions for Find All Anagrams in a String.
     Memory Usage: 42.3 MB, less than 44.44% of JavaScript online submissions for Find All Anagrams in a String.
 */
