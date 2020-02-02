@@ -20,7 +20,11 @@ document.write("<script language=javascript src='utils/TreeNode.js'></script>")
      /
     2
 */
-var inorderTraversal = function(root) {
+/*
+    Runtime: 52 ms, faster than 83.64% of JavaScript online submissions for Binary Tree Inorder Traversal.
+    Memory Usage: 33.9 MB, less than 21.88% of JavaScript online submissions for Binary Tree Inorder Traversal.
+*/
+var inorderTraversal_stack = function(root) {
     if (!root) return []
 
     let stack = []

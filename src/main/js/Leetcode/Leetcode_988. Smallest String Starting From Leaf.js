@@ -6,8 +6,11 @@
  *     this.left = this.right = null;
  * }
  */
-
-var smallestFromLeaf1 = function(root) {
+/*
+    Runtime: 96 ms, faster than 12.70% of JavaScript online submissions for Smallest String Starting From Leaf.
+    Memory Usage: 37.8 MB, less than 50.00% of JavaScript online submissions for Smallest String Starting From Leaf.
+*/
+var smallestFromLeaf = function(root) {
     let result = '~'
 
     if (!root) {
