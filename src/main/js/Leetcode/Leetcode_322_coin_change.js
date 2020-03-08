@@ -46,6 +46,11 @@ var coinChange1 = function(coins, amount) {
     return results[amount]
 };
 
+/*
+Runtime: 72 ms, faster than 96.94% of JavaScript online submissions for Coin Change.
+Memory Usage: 38.5 MB, less than 27.27% of JavaScript online submissions for Coin Change.
+*/
+
 var coinChange = function(coins, amount) {
     if (amount === 0) {
         return 0

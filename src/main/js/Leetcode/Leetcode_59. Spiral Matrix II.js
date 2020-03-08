@@ -4,6 +4,11 @@
  * @return {number[][]}
  */
 
+ /**
+  * Runtime: 48 ms, faster than 94.96% of JavaScript online submissions for Spiral Matrix II.
+Memory Usage: 33.6 MB, less than 100.00% of JavaScript online submissions for Spiral Matrix II.
+  * @param {*} n 
+  */
 var generateMatrix = function(n) {
     const result = []
     for (let i = 0; i < n; i++) result.push([])

@@ -10,7 +10,10 @@
  * @param {ListNode} l2
  * @return {ListNode}
  */
-
+/*
+Runtime: 120 ms, faster than 62.66% of JavaScript online submissions for Add Two Numbers II.
+Memory Usage: 39.2 MB, less than 33.33% of JavaScript online submissions for Add Two Numbers II.
+*/
 var addTwoNumbers = function(l1, l2) {
     let a1 = []
     let a2 = []
@@ -29,12 +32,13 @@ var addTwoNumbers = function(l1, l2) {
     let jinwei = 0
 
     for (let i1 = a1.length - 1, i2 = a2.length - 1; i1 >= 0 || i2 >= 0 || jinwei; i1--, i2--) {
-        let val = (i1 >= 0 ? a1[i1]  : 0 )+ (i2 >=0 ? a2[i1] : 0) + jinwei
+        let val = (i1 >= 0 ? a1[i1]  : 0 )+ (i2 >=0 ? a2[i2] : 0) + jinwei
         if (val > 9) {
-            arr.shift(val % 10)
+            arr.unshift(val % 10)
             jinwei = 1
         } else {
-            arr.shift(val)
+            arr.unshift(val)
+            jinwei = 0
         }
     }
 
